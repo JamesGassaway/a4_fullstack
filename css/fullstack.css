@@ -1,0 +1,18 @@
+h1 {
+	font-family: 'Fira Sans Extra Condensed', sans-serif;
+}
+
+body {
+	background-image: url("/images/index.jpeg");
+}
+
+hr {
+	display: block;
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+	margin-left: auto;
+	margin-right: auto;
+	border-style: ridge;
+	border-width: 3px;
+	border-color: #FF0000;
+}
